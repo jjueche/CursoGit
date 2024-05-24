@@ -1,0 +1,14 @@
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\bin\Debug\net8.0\CursoGit.exe
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\bin\Debug\net8.0\CursoGit.deps.json
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\bin\Debug\net8.0\CursoGit.runtimeconfig.json
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\bin\Debug\net8.0\CursoGit.dll
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\bin\Debug\net8.0\CursoGit.pdb
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\CursoGit.GeneratedMSBuildEditorConfig.editorconfig
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\CursoGit.AssemblyInfoInputs.cache
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\CursoGit.AssemblyInfo.cs
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\CursoGit.csproj.CoreCompileInputs.cache
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\CursoGit.dll
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\refint\CursoGit.dll
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\CursoGit.pdb
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\CursoGit.genruntimeconfig.cache
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\ref\CursoGit.dll
