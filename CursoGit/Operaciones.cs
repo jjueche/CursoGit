@@ -15,6 +15,11 @@
             Console.ReadLine();
         }
 
-      
+        public static void Multiplicar(int nro1, int nro2)
+        {
+            
+
+            Console.WriteLine(nro1 * nro2);
+        }
     }
 }
