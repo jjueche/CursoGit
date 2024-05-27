@@ -25,6 +25,10 @@ switch (opcion)
         break;
     case 3: Console.WriteLine(primerOperando + segundoOperando);
         break;
+    case 4: Console.WriteLine(primerOperando / segundoOperando);
+        break;
+    case 5: Console.WriteLine(primerOperando - segundoOperando);
+        break;
 }
 
 
