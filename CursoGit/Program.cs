@@ -1,12 +1,20 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using CursoGit;
 
-Console.Write("De que número desea la tabla de multiplicar?: ");
-int nro = Convert.ToInt32(Console.ReadKey());
-int resultado = 0;
-for (int i = 1;i <= 10;i++)
+Console.WriteLine("Mini-calculadora");
+Console.WriteLine("Que operación desea realizar?");
+Console.WriteLine("1. Tabla de multiplicar");
+Console.WriteLine("2. Multiplicar dos números");
+Console.WriteLine("3. Sumar dos números");
+Console.WriteLine("4. Dividir dos números");
+Console.WriteLine("5. Restar dos números");
+int opcion = Convert.ToInt32(Console.ReadLine());
+
+switch (opcion)
 {
-    resultado = i * nro;
-    Console.WriteLine(i.ToString() + " x " + nro.ToString() + " = " + resultado.ToString());
+    case 1: Operaciones.Tabla();
+        break;
+    
 }
-Console.ReadLine();
+
+
 

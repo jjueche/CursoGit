@@ -12,3 +12,4 @@ D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\refint\CursoGit.dll
 D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\CursoGit.pdb
 D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\CursoGit.genruntimeconfig.cache
 D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\ref\CursoGit.dll
+D:\JUribe\DotNet\Projects\CursoGit\CursoGit\obj\Debug\net8.0\CursoGit.sourcelink.json
